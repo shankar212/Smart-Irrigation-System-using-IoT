@@ -98,13 +98,10 @@ Developed using **Arduino IDE** and **ESP32**, the system automatically controls
 **Shanker Rathod**  
 *Developed using Arduino IDE, ESP32, and ThingSpeak Cloud with Telegram IoT automation.*  
 
-📧 Email: your.email@example.com  
-🌐 GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)  
+📧 Email: shankerr7780@gmail.com 
+🌐 GitHub: [https://github.com/shankar212](https://github.com/shankar212)  
 
----
 
-### 🪪 License  
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
